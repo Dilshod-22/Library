@@ -49,7 +49,7 @@ export default {
   },
   methods: {
     sendItem() {
-      if (title && author && isbn) {
+      if (title.value && author.value && isbn.value) {
         let id = Math.floor(Math.random() * 9999)
         let item = {
           title: this.info.title,
