@@ -17,23 +17,6 @@ export default {
     data(){
         return{
             libraryInfos:[
-                {
-                    title:"otgan kunlar",
-                    author:"otkir hoshimov",
-                    isbn:123,
-                    id:1
-                },
-                {
-                    title:"oq kema",
-                    author:"oybek",
-                    isbn:124,
-                    id:2
-                },{
-                    title:"may",
-                    author:"umar hayyom",
-                    isbn:125,
-                    id:3
-                }
             ],
         }
     },
