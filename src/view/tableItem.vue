@@ -1,5 +1,5 @@
 <template>
-    <div class="grid item grid-cols-7 bg-gray-300 items-center hover:cursor-pointer h-10">
+    <div class="grid item grid-cols-7 bg-gray-300 items-center hover:cursor-pointer h-8">
         <h2 class="font-medium col-span-2 1text-lg pl-3">{{ libraryInfo.title }}</h2>
         <h2 class="font-medium col-span-2 text-lg pl-3">{{ libraryInfo.author }}</h2>
         <h2 class="font-medium col-span-2 text-lg pl-3">{{ libraryInfo.isbn }}</h2>
