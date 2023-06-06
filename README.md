@@ -1,6 +1,6 @@
 # Deploy link
 
-https://647ec86efcc57a66e82aab3c--dancing-phoenix-7d37a5.netlify.app/
+https://647ed8375ba2a40008405ccb--dancing-phoenix-7d37a5.netlify.app/
 
 # library
 
