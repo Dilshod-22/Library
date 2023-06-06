@@ -42,9 +42,9 @@ export default {
   data() {
     return {
       info: {
-        title: '',
-        author: '',
-        isbn: ''
+        title: null,
+        author: null,
+        isbn: null
       }
     }
   },
