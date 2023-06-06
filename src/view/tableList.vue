@@ -1,5 +1,5 @@
 <template>
-    <div class="h-40 w-full item">
+    <div class="h-auto w-full item mb-20">
         <div class="grid grid-cols-7 bg-gray-300 border border-black">
             <h2 class="font-medium col-span-2 text-lg pl-3">Title</h2>
             <h2 class="font-medium col-span-2 text-lg pl-3">Author</h2>

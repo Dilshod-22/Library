@@ -60,9 +60,9 @@ export default {
   data(){
     return{
       info:{
-        title:"",
-        author:"",
-        isbn:""
+        title:'',
+        author:'',
+        isbn:''
       }
     }
   },
