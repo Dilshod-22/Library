@@ -34,7 +34,6 @@
         <input
           class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight"
           id="isbn"
-          :value="info.isbn"
           @input="(e) => this.info.isbn = e.target.value"
           placeholder="ISBN#"
           required
