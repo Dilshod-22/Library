@@ -9,7 +9,6 @@
           class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           id="title"
           type="text"
-          :value="info.title"
           @input="(e) => this.info.title = e.target.value"
           placeholder="Title"
           required
@@ -22,7 +21,6 @@
         <input
           class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline"
           id="author"
-          :value="info.author"
           @input="(e) => this.info.author = e.target.value"
           type="text"
           placeholder="Author"
