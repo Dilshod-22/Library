@@ -45,7 +45,7 @@
       <div class="flex items-center justify-between">
         <button
           class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded m-auto"
-          type="button"
+          type="submit"
           @click="sendItem"
         >
           AddBook
